@@ -5,6 +5,7 @@ import CustomPlayer from '../components/CustomPlayer';
 const urls = [
   'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
   'https://watch.redd.it/hls/b22c7b08-2e01-467f-ba9a-adc10b166e16/index.m3u8',
+  'https://watch-staging.redd.it/hls/84905ff3-0a3b-443a-8b21-b00a1b93cf6d/index.m3u8',
   'https://www.youtube.com/watch?v=kVkT2VySizA',
 ];
 
